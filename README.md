@@ -1,4 +1,4 @@
-- Hi, I’m @blucin, nice to meet you! 
+- Hi, I’m @blucin, nice to meet you 
 
 <!---
 blucin/blucin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
