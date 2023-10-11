@@ -1,4 +1,4 @@
-![Akshar's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=blucin&theme=rose)
+![Akshar's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=blucin&theme=github_dark_dimmed)
 <!--![Akshar's GitHub stats](https://github-readme-stats.vercel.app/api?username=blucin&show_icons=true&theme=transparent)-->
 
 <!---
